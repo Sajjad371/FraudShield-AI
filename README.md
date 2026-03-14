@@ -99,10 +99,10 @@ streamlit run dashboard/app.py
 ![Dashboard](dashboard_overview.png)
 
 ### Risk Analysis
-![Risk Analysis](risk_analysis.PNG)
+![Risk Analysis](risk_analysis.png)
 
 ### Fraud Monitoring
-![Fraud Monitoring](fraud_monitoring.PNG)
+![Fraud Monitoring](fraud_monitoring.png)
 ```
 
 ---
