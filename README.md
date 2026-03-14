@@ -96,7 +96,7 @@ streamlit run dashboard/app.py
 ## Dashboard Preview
 
 ### System Overview
-![Dashboard](dashboard_overview.PNG)
+![Dashboard](dashboard_overview.png)
 
 ### Risk Analysis
 ![Risk Analysis](risk_analysis.PNG)
