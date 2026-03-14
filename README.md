@@ -49,6 +49,7 @@ FraudShield AI uses machine learning models to analyze transaction patterns and 
 User → Streamlit Dashboard → FastAPI API → ML Fraud Model → Risk Engine → Decision Output
 
 ![Architecture](architecture.png)
+
 ---
 
 ## Technologies Used
@@ -75,24 +76,26 @@ NumPy
 
 ## How to Run
 
-Install dependencies
+### Install dependencies
 
 ```
 pip install -r requirements.txt
 ```
 
-Run the API
+### Run the API
 
 ```
 uvicorn api.fraud_api:app --reload
 ```
 
-Run the dashboard
+### Run the dashboard
 
 ```
 streamlit run dashboard/app.py
+```
 
 ---
+
 ## Dashboard Preview
 
 ### System Overview
@@ -103,7 +106,6 @@ streamlit run dashboard/app.py
 
 ### Fraud Monitoring
 ![Fraud Monitoring](fraud_monitoring.png)
-```
 
 ---
 
