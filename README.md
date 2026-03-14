@@ -2,7 +2,7 @@
 
 AI-powered fraud detection system for financial transactions using Machine Learning, FastAPI, and Streamlit.
 
-Developed by *Sajjad Dahani*
+Developed by **Sajjad Dahani**
 
 ---
 
@@ -91,6 +91,18 @@ Run the dashboard
 
 ```
 streamlit run dashboard/app.py
+
+---
+## Dashboard Preview
+
+### System Overview
+![Dashboard](dashboard_overview.PNG)
+
+### Risk Analysis
+![Risk Analysis](risk_analysis.PNG)
+
+### Fraud Monitoring
+![Fraud Monitoring](fraud_monitoring.PNG)
 ```
 
 ---
