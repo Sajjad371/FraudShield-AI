@@ -48,6 +48,7 @@ FraudShield AI uses machine learning models to analyze transaction patterns and 
 
 User → Streamlit Dashboard → FastAPI API → ML Fraud Model → Risk Engine → Decision Output
 
+![Architecture](architecture.png)
 ---
 
 ## Technologies Used
